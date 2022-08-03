@@ -1,7 +1,7 @@
 # NS-Dial
 
 This is the code repository for the paper:
-[*[Shiquan Yang, Rui Zhang, Sarah Erfani, Jey Han Lau. "An Interpretable Neuro-Symbolic Framework for Task-Oriented Dialogue Generation". ACL 2022.]*](https://arxiv.org/abs/2203.05843).
+[*[Shiquan Yang, Rui Zhang, Sarah Erfani, Jey Han Lau. "An Interpretable Neuro-Symbolic Framework for Task-Oriented Dialogue Generation". ACL 2022.]*](https://www.ruizhang.info/publications/ACL_2022%20An%20Interpretable%20Neuro-Symbolic%20Reasoning%20Framework%20for%20Task-Oriented%20Dialogue%20Generation.pdf).
 
 
 ## Framework
